@@ -1,0 +1,13 @@
+{
+  "main.css": "/contactapp/static/css/main.e07c9b41.chunk.css",
+  "main.js": "/contactapp/static/js/main.2f16c03b.chunk.js",
+  "main.js.map": "/contactapp/static/js/main.2f16c03b.chunk.js.map",
+  "static/js/1.e2ce852f.chunk.js": "/contactapp/static/js/1.e2ce852f.chunk.js",
+  "static/js/1.e2ce852f.chunk.js.map": "/contactapp/static/js/1.e2ce852f.chunk.js.map",
+  "runtime~main.js": "/contactapp/static/js/runtime~main.adb34f85.js",
+  "runtime~main.js.map": "/contactapp/static/js/runtime~main.adb34f85.js.map",
+  "static/css/main.e07c9b41.chunk.css.map": "/contactapp/static/css/main.e07c9b41.chunk.css.map",
+  "index.html": "/contactapp/index.html",
+  "precache-manifest.5028fb361f2796c57862941966a6c3e8.js": "/contactapp/precache-manifest.5028fb361f2796c57862941966a6c3e8.js",
+  "service-worker.js": "/contactapp/service-worker.js"
+}
