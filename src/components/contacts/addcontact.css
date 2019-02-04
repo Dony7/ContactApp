@@ -1,0 +1,46 @@
+.addcontact-card{
+    width: 80%;
+    margin: 0 auto;
+    border: solid rgb(177, 177, 177) 1px;
+    margin: 30px auto;
+}
+.addcontact-header{
+    background-color: rgb(238, 238, 238);
+    padding: 10px 20px;
+    color: rgb(134, 134, 134);
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.form input{
+    padding: 9px 15px;
+    margin-bottom: 15px;
+    font-size: 19px;
+}
+
+.form label{
+    margin-bottom: 15px;
+    color: rgb(134, 134, 134);
+}
+
+.form-button{
+    background-color: brown;
+    border: none;
+    width: 60%;
+    margin: 0 0 20px 0;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 7px 0;
+    color: rgb(230, 230, 230);
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+}

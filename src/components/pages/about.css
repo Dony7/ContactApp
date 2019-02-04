@@ -1,0 +1,9 @@
+.about-container{
+    width: 80%;
+    margin: 20px auto;
+}
+
+.about-container h1{
+    font-size: 52px;
+    font-weight: 200;
+}

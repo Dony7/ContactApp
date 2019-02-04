@@ -1,0 +1,71 @@
+.card-header{
+    display: flex;
+    align-items: center;
+}
+
+.card-header h1{
+    margin-right: auto;
+    color:rgb(102, 102, 102);
+}
+
+.card-body{
+    width:80%;
+    margin: 0 auto;
+    border: 1px rgb(221, 221, 221) solid;
+    padding: 5px 30px;
+    margin-bottom: 30px; 
+    cursor: pointer;
+}
+
+.card-body h4{
+    font-size: 20px;
+    
+}
+
+.list-group{
+    list-style: none;
+    padding: 0;
+}
+
+.list-group li:not(:last-child){
+    padding: 30px 10px;
+    border: 1px rgb(184, 184, 184) solid;
+}
+
+.list-group li:last-child{
+    padding: 30px 10px;
+    border: 1px rgb(184, 184, 184) solid;
+    border-top: none;
+}
+
+.list-item span{
+    font-weight: bold;
+}
+
+.fas{
+    cursor: pointer;
+}
+
+.fa-trash-alt{
+    color: rgb(100, 100, 100);
+}
+
+.fa-edit{
+    color: rgb(100, 100, 100);
+    margin-right: 10px;
+}
+
+.title-container{
+    width:80%;
+    margin: 0 auto;
+
+}
+
+.contacts-title{
+    font-weight: 100;
+    font-size: 45px;
+}
+
+.contacts-title span{
+    color: tomato;
+} 
